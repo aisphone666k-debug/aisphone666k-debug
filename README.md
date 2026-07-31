@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- โค้ดที่แก้ไข: ผมใส่ลิงก์ 'Image Address' (ไฟล์ GIF ตรงๆ) ให้แล้วครับ -->
-  <img src="https://media.tenor.com/Z4c9zWwL-3AAAAAM/nick-wilde-zootopia.gif" width="180px" alt="Nick Wilde Zootopia">
+  <img src="https://media.tenor.com/Z4c9zWwL-3AAAAAM/nick-wilde-zootopia.gif" width="200px" alt="Nick Wilde Zootopia">
   
   <h1>👋 Welcome to My Digital Space</h1>
   <p><i>"Writing clean code by day, enjoying life to the fullest by night."</i></p>
@@ -28,8 +27,6 @@ Hi I'm **Yeen**
 | 📺 **Series Marathon** | Our Beloved Summer | 🎬 |
 | 🎵 **On Repeat** | Pop, Rap | 🎧 |
 | 🏋️‍♂️ **Workout Routine** | เล่นฟุตบอล, วิ่ง, ยกน้ำหนัก, คาร์ดิโอ | ⚽ |
-
-*(หมายเหตุ: ในตารางนี้ผมใส่เป็นอีโมจิ 🔫 ⚔️ ไว้ให้ชั่วคราวเพื่อให้โปรไฟล์ดูสะอาดตาและเข้ากับธีม แต่ถ้าคุณอยากเปลี่ยนเป็น GIF เล็กๆ ก็สามารถนำแท็ก `<img src="...">` มาใส่แทนที่อีโมจิได้เลยครับ)*
 
 ---
 
