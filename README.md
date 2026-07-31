@@ -38,9 +38,8 @@ Hi I'm **Yeen**
 ---
 
 ### 📊 GitHub Stats
-<!-- อย่าลืมเปลี่ยนคำว่า yourusername ในลิงก์ด้านล่างให้เป็นชื่อผู้ใช้ GitHub ของคุณ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aisphone666k-debug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
