@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/Z4c9zWwL-3AAAAAM/nick-wilde-zootopia.gif" width="200px" alt="Nick Wilde Zootopia">
+  <img src="nick-wilde-zootopia.gif" width="200px" alt="Nick Wilde Zootopia">
   
   <h1>👋 Welcome to My Digital Space</h1>
   <p><i>"Writing clean code by day, enjoying life to the fullest by night."</i></p>
