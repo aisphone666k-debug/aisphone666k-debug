@@ -1,7 +1,9 @@
 <div align="center">
+  <h1>👋 Welcome to My Digital Space</h1>
+  
   <img src="nick-wilde-zootopia.gif" width="200px" alt="Nick Wilde Zootopia">
   
-  <h1>👋 Welcome to My Digital Space</h1>
+
   <p><i>"Writing clean code by day, enjoying life to the fullest by night."</i></p>
 </div>
 
