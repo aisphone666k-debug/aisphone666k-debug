@@ -39,7 +39,7 @@ Hi I'm **Yeen**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My pic
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aisphone666k-debug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
