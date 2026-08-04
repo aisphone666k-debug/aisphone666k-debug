@@ -39,9 +39,11 @@ Hi I'm **Yeen**
 
 ---
 
-### 📊 My pic
+### 📊 My Picture
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aisphone666k-debug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- เปลี่ยนที่นี่: ผมนำสถิติออกและใส่รูปของคุณแทนครับ -->
+  <!-- เปลี่ยน 'download.jfif' เป็นชื่อไฟล์รูปภาพที่คุณต้องการใช้ -->
+  <img src="me.jpg" width="100%" style="border-radius: 10px;" alt="My Picture" />
 </div>
 
 ---
