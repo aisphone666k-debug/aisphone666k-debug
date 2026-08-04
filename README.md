@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Welcome to My Digital Space</h1>
   
-  <img src="nick-wilde-zootopia.gif" width="200px" alt="Nick Wilde Zootopia">
+  <img src="nick-wilde-zootopia.gif" width="500px" alt="Nick Wilde Zootopia">
   
 
   <p><i>"Writing clean code by day, enjoying life to the fullest by night."</i></p>
@@ -41,7 +41,7 @@ Hi I'm **Yeen**
 
 ### 🎨 My Pic
 <div align="center">
-  <img src="download.jfif" width="100%" style="border-radius: 10px;" alt="My Picture" />
+  <img src="download.jfif" width="50%" style="border-radius: 10px;" alt="My Picture" />
 </div>
 
 ---
