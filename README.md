@@ -39,11 +39,9 @@ Hi I'm **Yeen**
 
 ---
 
-### 📊 My Picture
+### 🎨 My Pic
 <div align="center">
-  <!-- เปลี่ยนที่นี่: ผมนำสถิติออกและใส่รูปของคุณแทนครับ -->
-  <!-- เปลี่ยน 'download.jfif' เป็นชื่อไฟล์รูปภาพที่คุณต้องการใช้ -->
-  <img src="me.jpg" width="100%" style="border-radius: 10px;" alt="My Picture" />
+  <img src="download.jfif" width="100%" style="border-radius: 10px;" alt="My Picture" />
 </div>
 
 ---
